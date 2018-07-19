@@ -1,13 +1,8 @@
 # 「臺灣民主參與的理論建構與實踐暨慶祝選舉研究中心三十週年」國際學術研討會
 
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
-
-| 2019年     | 5月24日（五）|  x              |  x 
+| 2019年     | 5月24日（五）|                |   
 | ----------- | :-----:| ------------------- | ----------    
 |0930-0945   |  開幕貴賓致詞  
 |0945-1030   |  學者專題演講（人選、題目待定）   
