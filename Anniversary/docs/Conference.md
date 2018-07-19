@@ -4,10 +4,10 @@
 <table border=0 cellpadding=0 cellspacing=0 width=1102 style='border-collapse:
  collapse;table-layout:fixed;width:1102pt'>
  <col width=144 style='mso-width-source:userset;mso-width-alt:6144;width:144pt'>
- <col width=213 style='mso-width-source:userset;mso-width-alt:9088;width:183pt'>
+ <col width=213 style='mso-width-source:userset;mso-width-alt:9088;width:173pt'>
  <col width=384 style='mso-width-source:userset;mso-width-alt:16384;width:384pt'>
  <col width=278 style='mso-width-source:userset;mso-width-alt:11861;width:278pt'>
- <col width=83 style='mso-width-source:userset;mso-width-alt:3541;width:113pt'>
+ <col width=83 style='mso-width-source:userset;mso-width-alt:3541;width:123pt'>
  <tr height=16 style='mso-height-source:userset;height:16.0pt'>
   <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
   height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
