@@ -34,11 +34,11 @@
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl65 width=144 style='height:17.0pt;width:144pt'><span
   lang=EN-US>　</span></td>
-  <td class=xl66 width=213 style='width:213pt'>主題<font class="font6">/</font><font
+  <td class=xl66 width=213 style='width:173pt'>主題<font class="font6">/</font><font
   class="font5">（主持人）</font></td>
   <td class=xl66 width=384 style='width:384pt'>論文</td>
   <td class=xl66 width=278 style='width:278pt'>發表人</td>
-  <td class=xl66 width=83 style='width:83pt'>評論人</td>
+  <td class=xl66 width=83 style='width:123pt'>評論人</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl67 width=144 style='height:16.0pt;width:144pt'><span
