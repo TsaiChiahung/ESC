@@ -45,3 +45,180 @@
  </tr>
  <![endif]>
 </table>
+
+
+<table border=0 cellpadding=0 cellspacing=0 width=458 style='border-collapse:
+ collapse;table-layout:fixed;width:458pt'>
+ <col width=65 span=3 style='width:65pt'>
+ <col width=263 style='mso-width-source:userset;mso-width-alt:11221;width:263pt'>
+ <tr height=16 style='mso-height-source:userset;height:16.0pt'>
+  <td colspan=4 height=16 class=xl70 width=458 style='border-right:1.0pt solid black;
+  height:16.0pt;width:458pt'>第一天，<font class="font6">2019</font><font
+  class="font5">年</font><font class="font6">5</font><font class="font5">月</font><font
+  class="font6">24</font><font class="font5">日（五）</font></td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl80 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span>0930-0945<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font
+  class="font5">開幕貴賓致詞</font></span></td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl77 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US><span
+  style='mso-spacerun:yes'>&nbsp;&nbsp; </span>0945-1030<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">學者專題演講（人選、題目待定）</font></span></td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl77 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US>1030-1045<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">拍照、茶敘</font></span></td>
+ </tr>
+ <tr height=32 style='height:32.0pt'>
+  <td height=32 class=xl65 width=65 style='height:32.0pt;width:65pt'><span
+  lang=EN-US>　</span></td>
+  <td class=xl66 width=65 style='width:65pt'>主題<font class="font6">/</font><font
+  class="font5">（主持人）</font></td>
+  <td class=xl66 width=65 style='width:65pt'>發表人<font class="font6">/</font><font
+  class="font5">論文</font></td>
+  <td class=xl66 width=263 style='width:263pt'>評論人</td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td height=46 class=xl67 width=65 style='height:46.0pt;width:65pt'><span
+  lang=EN-US>1045-1215</span></td>
+  <td rowspan=3 class=xl73 width=65 style='border-bottom:1.0pt solid black;
+  border-top:none;width:65pt'>社會化研究<font class="font6">/</font><font
+  class="font5">（主持人待定）</font></td>
+  <td class=xl69 width=65 style='width:65pt'>陳陸輝<font class="font6">/</font><font
+  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td height=46 class=xl67 width=65 style='height:46.0pt;width:65pt'>　</td>
+  <td class=xl69 width=65 style='width:65pt'>劉嘉薇<font class="font6">/</font><font
+  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=47 style='height:47.0pt'>
+  <td height=47 class=xl68 width=65 style='height:47.0pt;width:65pt'>　</td>
+  <td class=xl66 width=65 style='width:65pt'>陳光輝<font class="font6">/</font><font
+  class="font5">（題目待定）</font></td>
+  <td class=xl66 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl77 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US>1215-1330<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">午餐</font></span></td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td rowspan=3 height=124 class=xl76 width=65 style='border-bottom:1.0pt solid black;
+  height:124.0pt;border-top:none;width:65pt'><span lang=EN-US>1330-1500</span></td>
+  <td rowspan=3 class=xl73 width=65 style='border-bottom:1.0pt solid black;
+  border-top:none;width:65pt'>制度設計與理性選擇<font class="font6">/</font><font
+  class="font5">（主持人待定）</font></td>
+  <td class=xl69 width=65 style='width:65pt'>蔡佳泓<font class="font6">/</font><font
+  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td height=46 class=xl69 width=65 style='height:46.0pt;width:65pt'>俞振華<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=32 style='height:32.0pt'>
+  <td height=32 class=xl66 width=65 style='height:32.0pt;width:65pt'>鮑彤<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl66 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl77 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US>1500-1530<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">茶敘</font></span></td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td rowspan=3 height=139 class=xl76 width=65 style='border-bottom:1.0pt solid black;
+  height:139.0pt;border-top:none;width:65pt'><span lang=EN-US>1530-1700</span></td>
+  <td rowspan=3 class=xl73 width=65 style='border-bottom:1.0pt solid black;
+  border-top:none;width:65pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
+  class="font5">（主持人待定）</font></td>
+  <td class=xl69 width=65 style='width:65pt'>游清鑫<font class="font6">/</font><font
+  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td height=46 class=xl69 width=65 style='height:46.0pt;width:65pt'>包正豪<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=47 style='height:47.0pt'>
+  <td height=47 class=xl66 width=65 style='height:47.0pt;width:65pt'>黃信豪<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl66 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl77 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US>1800-2000<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">晚宴（地點待定）</font></span></td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:16.0pt'>
+  <td colspan=4 height=16 class=xl70 width=458 style='border-right:1.0pt solid black;
+  height:16.0pt;width:458pt'>第二天，<font class="font6">2019</font><font
+  class="font5">年</font><font class="font6">5</font><font class="font5">月</font><font
+  class="font6">25</font><font class="font5">日（六）</font></td>
+ </tr>
+ <tr height=47 style='height:47.0pt'>
+  <td rowspan=3 height=140 class=xl76 width=65 style='border-bottom:1.0pt solid black;
+  height:140.0pt;border-top:none;width:65pt'><span lang=EN-US>0910-1040</span></td>
+  <td rowspan=3 class=xl73 width=65 style='border-bottom:1.0pt solid black;
+  border-top:none;width:65pt'>研究方法<font class="font6">/</font><font
+  class="font5">（主持人待定）</font></td>
+  <td class=xl69 width=65 style='width:65pt'>黃紀<font class="font6">+</font><font
+  class="font5">蔡宗漢</font><font class="font6">(?)/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td height=46 class=xl69 width=65 style='height:46.0pt;width:65pt'>莊文忠<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=47 style='height:47.0pt'>
+  <td height=47 class=xl66 width=65 style='height:47.0pt;width:65pt'>蕭怡靖<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl66 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=4 height=17 class=xl77 width=458 style='border-right:1.0pt solid black;
+  height:17.0pt;width:458pt'><span lang=EN-US>1040-1100<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">茶敘</font></span></td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td rowspan=3 height=139 class=xl76 width=65 style='border-bottom:1.0pt solid black;
+  height:139.0pt;border-top:none;width:65pt'><span lang=EN-US>1100-1230</span></td>
+  <td rowspan=3 class=xl73 width=65 style='border-bottom:1.0pt solid black;
+  border-top:none;width:65pt'>政治認同<font class="font6">/</font><font
+  class="font5">（主持人待定）</font></td>
+  <td class=xl69 width=65 style='width:65pt'>鄭夙芬<font class="font6">/</font><font
+  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=46 style='height:46.0pt'>
+  <td height=46 class=xl69 width=65 style='height:46.0pt;width:65pt'>林瓊珠<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl69 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=47 style='height:47.0pt'>
+  <td height=47 class=xl66 width=65 style='height:47.0pt;width:65pt'>周應龍<font
+  class="font6">/</font><font class="font5">（題目待定）</font></td>
+  <td class=xl66 width=263 style='width:263pt'>待定</td>
+ </tr>
+ <tr height=16 style='height:16.0pt'>
+  <td colspan=4 height=16 class=xl70 width=458 style='border-right:1.0pt solid black;
+  height:16.0pt;width:458pt'>研討會閉幕</td>
+ </tr>
+</table>
