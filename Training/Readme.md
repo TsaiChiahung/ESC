@@ -1,0 +1,3 @@
+- This class is taught on Aug. 13 and 27, 2018.
+- We will focus on survey data analysis with `R`.
+- After two days of classes, please submit a 2-page report on a question you are interested in.
