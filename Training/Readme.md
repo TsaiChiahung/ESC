@@ -1,4 +1,4 @@
-- This class is taught on Aug. 13 and 27, 2018.
+- The training courses are taught on Aug. 13 and 27, 2018.
 - We will focus on survey data analysis with `R`.
 - TEDS 2016 data will be our practice data.
-- After two days of classes, please submit a 2-page report on a question you are interested in. Data can be found at TEDS archive or Civic Conciousness data at this [link]()
+- After two days of classes, please submit a 2-page report on a question you are interested in. Data can be found at TEDS archive or Civic Conciousness data at this [Github](https://github.com/TsaiChiahung/CivicSurvey).
