@@ -1,0 +1,140 @@
+---
+title: "Survey Data Analysis with R (2)"
+author: "Chia-hung Tsai"
+date: "Aug. 27, 2018"
+output: beamer_presentation
+fontsize: 11pt
+geometry: margin=1in
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(dplyr)
+library(kableExtra)
+knitr::opts_chunk$set(echo = TRUE, warning=FALSE, message=FALSE, digits = 3)
+options(knitr.table.format = "html", digits = 3)
+```
+
+## Goals
+
+- Cross-table
+- Descriptive statistics
+
+## Preparation
+- Install `R` from [here](https://cran.r-project.org)
+- Install [RStudio IDE](https://www.rstudio.com/products/rstudio/download/)
+- Install `survey`, `foreign`, `car` packages
+
+### Dataset 
+We will run a survey data to show how `R` works, so you should download **TEDS2016_indQ.sav** file to your working directory
+
+
+## Data
+
+You can import dataset from RStudio's **File** and **Import Dataset**. The codes will looks like the following:
+```{r data}
+library(haven)
+TEDS2016_indQ <- read_sav("TEDS2016_indQ.sav")
+```
+
+Or you can use library \textbf{foreign} to read the data:
+```{r}
+library(foreign)
+df <- read.spss("TEDS2016_indQ.sav", to.data.frame=T,   
+                use.value.labels = F)
+```
+
+
+## Cross-table
+Let's analyze the relationship between gender, age, and satisfaction with President Ma.     Ma's performance is:
+![](spssoutput3.png){width=1100px, height=700px}
+
+---
+
+## Recode (SPSS)
+Before further analysis, we can create a "Don't Know" category to contain every ambiguous response.  
+![](spssoutput4.png){width=1100px, height=700px}
+
+---
+
+## Recode (R)
+
+```{r}
+library(foreign)
+df <- read.spss("TEDS2016_indQ.sav", to.data.frame=T,   
+                use.value.labels = T)
+class(df$C1)
+df$Ma <- as.numeric(df$C1)
+
+```
+
+
+```{r}
+library(car)
+df$Ma <- recode(df$Ma, "5:8=99")
+table(df$Ma)
+```
+
+
+## Cross-table by SPSS
+
+```markdown
+WEIGHT BY w.
+CROSSTABS
+  /TABLES=Sex Age BY Ma
+  /FORMAT=AVALUE TABLES
+  /CELLS=COUNT ROW 
+  /COUNT ROUND CELL.
+```
+
+---
+
+![](spssoutput5.png){width=1100px, height=700px}
+
+---
+
+## Cross-table by R
+
+```{r}
+library(survey)
+# attributes
+df$Gender <- as.numeric (df$Sex)
+df$Age5 <- as.numeric (df$Age)
+#weigting
+dfw <- svydesign(ids = ~1, data = df, weights = df$w)
+#cross-table
+svytable(~Gender+Ma, design=dfw)
+100*prop.table(svytable(~Age5+Ma, design=dfw),1)
+
+```
+
+```{r}
+#cross-table
+svytable(~Age5+Ma, design=dfw)
+100*prop.table(svytable(~Age5+Ma, design=dfw),1)
+```
+
+---
+
+## Chi-squared
+
+- We use chi-squared value to see if the two variables are indepedent. If chi-squared value is large, the probability of observing such value is very small. Therefore, we can reject the null hypothesis that the two variables are independent. In other words, these two variables are associated. When variable A changes, variable B will also change.   
+- We can calculate the chi-squared value of survey data with `R`
+
+```{r}
+svychisq(~Age+Ma, design=dfw, 
+              statistic="Chisq")
+```
+
+---
+
+```markdown
+CROSSTABS
+  /TABLES=Age BY Ma
+  /FORMAT=AVALUE TABLES
+  /STATISTICS=CHISQ 
+  /CELLS=COUNT ROW 
+  /COUNT ROUND CELL.
+```
+
+![](spssoutput6.png){width=1100px, height=700px}
