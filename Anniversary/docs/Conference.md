@@ -138,7 +138,7 @@
   class="font5">（主持人：待定）</font></td>
   <td class=xl69 width=384 style='width:384pt'>　</td>
   <td class=xl69 width=278 style='width:278pt'>黃紀<font class="font6">+</font><font
-  class="font5">蔡宗漢</font><font class="font6">(?)（（政治大學政治學系與選舉研究中心）</font></td>
+  class="font5">蔡宗漢</font><font class="font6">（政治大學政治學系與選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
