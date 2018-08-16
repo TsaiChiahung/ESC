@@ -46,16 +46,16 @@
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
   class="font5">（主持人：待定）</font></td>
-  <td class=xl69 width=384 style='width:384pt'>　家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響
+  <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響
 </td>
   <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心研究員暨政治系教授）、
-楊貴（政治大學政治學系博士生））</td>
+楊貴（政治大學政治學系博士生）</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl67 width=144 style='height:16.0pt;width:144pt'>　</td>
-  <td class=xl69 width=384 style='width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>劉嘉薇<font class="font6">/</font><font
+  <td class=xl69 width=384 style='width:384pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例</td>
+  <td class=xl69 width=278 style='width:278pt'>謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇（國立臺北大學公共行政暨政策學系）<font class="font6">/</font><font
   class="font5">（題目待定）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
@@ -138,7 +138,7 @@
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
   class="font5">（主持人：待定）</font></td>
-  <td class=xl69 width=384 style='width:384pt'>　</td>
+  <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
   <td class=xl69 width=278 style='width:278pt'>黃紀<font class="font6">、</font><font
   class="font5">蔡宗漢</font><font class="font6">（政治大學政治學系與選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
