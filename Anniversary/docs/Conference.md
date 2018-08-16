@@ -144,7 +144,7 @@
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治極化的測量與影響：一個跨國比較分析</td>
   <td class=xl66 width=278 style='width:278pt'>蕭怡靖（淡江大學公共行政學系）</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
