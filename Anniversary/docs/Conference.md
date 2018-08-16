@@ -76,13 +76,13 @@
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>制度設計與理性選擇<font class="font6">/</font><font
   class="font5">（主持人：待定）</font></td>
-  <td class=xl69 width=384 style='width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>蔡佳泓<font class="font6">（政治大學選舉研究中心）</font></td>
+  <td class=xl69 width=384 style='width:384pt'>選舉競爭與公民投票</td>
+  <td class=xl69 width=278 style='width:278pt'>蔡佳泓<font class="font6">（政治大學選舉研究中心與東亞所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心暨政治系）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心與政治學系）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -103,7 +103,7 @@
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
   class="font5">（主持人：待定）</font></td>
   <td class=xl69 width=384 style='width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心與國發所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
