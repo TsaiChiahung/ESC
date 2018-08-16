@@ -61,8 +61,7 @@
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl68 width=144 style='height:17.0pt;width:144pt'>　</td>
   <td class=xl66 width=384 style='width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>陳光輝<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>陳光輝</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -109,14 +108,12 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>包正豪<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>包正豪</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>黃信豪<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>黃信豪</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
