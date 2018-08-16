@@ -140,8 +140,7 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>莊文忠<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>莊文忠</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
