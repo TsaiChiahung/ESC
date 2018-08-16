@@ -48,7 +48,7 @@
   class="font5">（主持人：待定）</font></td>
   <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響
 </td>
-  <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心研究員暨政治系教授）、
+  <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心暨政治系）、
 楊貴（政治大學政治學系博士生）</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
@@ -82,7 +82,7 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選研中心）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心暨政治系）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
