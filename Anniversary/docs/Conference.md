@@ -112,7 +112,7 @@
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣民主發展與批判性公民的崛起：TEDS資料的檢視</td>
   <td class=xl66 width=278 style='width:278pt'>黃信豪（師範大學公民教育與活動領導學系）</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
