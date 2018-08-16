@@ -108,12 +108,12 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>包正豪</td>
+  <td class=xl69 width=278 style='width:278pt'>包正豪（淡江大學全球政經發展系）</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>黃信豪</td>
+  <td class=xl66 width=278 style='width:278pt'>黃信豪（師範大學公民教育與活動領導學系）</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -145,7 +145,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>蕭怡靖</td>
+  <td class=xl66 width=278 style='width:278pt'>蕭怡靖（淡江大學公共行政系）</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -166,12 +166,12 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>林瓊珠</td>
+  <td class=xl69 width=278 style='width:278pt'>林瓊珠（東吳大學政治系）</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>周應龍</td>
+  <td class=xl66 width=278 style='width:278pt'>周應龍（淡江大學全球政經發展系）</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
