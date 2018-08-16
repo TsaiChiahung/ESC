@@ -138,8 +138,7 @@
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
   class="font5">（主持人：待定）</font></td>
   <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
- <font class="font5">蔡宗漢</font><font class="font6">（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</font></td>
- <font
+ <td class=xl69 width=278 style='width:278pt'>蔡宗漢（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
@@ -150,8 +149,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>蕭怡靖<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>蕭怡靖</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -172,14 +170,12 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
-  <td class=xl69 width=278 style='width:278pt'>林瓊珠<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>林瓊珠</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
-  <td class=xl66 width=278 style='width:278pt'>周應龍<font class="font6">/</font><font
-  class="font5">（題目待定）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>周應龍</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
