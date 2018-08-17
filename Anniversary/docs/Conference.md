@@ -102,7 +102,7 @@
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
   class="font5">（主持人：待定）</font></td>
-  <td class=xl69 width=384 style='width:384pt'>　</td>
+  <td class=xl69 width=384 style='width:384pt'>政黨體系制度化：長期選舉資料的檢視觀點</td>
   <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心與國發所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
