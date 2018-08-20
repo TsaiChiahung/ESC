@@ -81,7 +81,7 @@
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
-  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>　</td>
+  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>民調初選真有助於挑出「好」的候選人嗎？</td>
   <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心與政治學系）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
