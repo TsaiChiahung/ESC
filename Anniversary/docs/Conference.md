@@ -59,8 +59,8 @@
   <td class=xl69 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl68 width=144 style='height:17.0pt;width:144pt'>大學生的民主價值：三個世代的比較</td>
-  <td class=xl66 width=384 style='width:384pt'>　</td>
+  <td height=17 class=xl68 width=144 style='height:17.0pt;width:144pt'></td>
+  <td class=xl66 width=384 style='width:384pt'>大學生的民主價值：三個世代的比較</td>
   <td class=xl66 width=278 style='width:278pt'>陳光輝</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
