@@ -45,7 +45,7 @@
   lang=EN-US>1045-1215</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
-  class="font5">（主持人：待定）</font></td>
+  class="font5">（主持人：陳義彥榮譽教授）</font></td>
   <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響
 </td>
   <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心暨政治系）、
@@ -61,7 +61,7 @@
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl68 width=144 style='height:17.0pt;width:144pt'></td>
   <td class=xl66 width=384 style='width:384pt'>大學生的民主價值：三個世代的比較</td>
-  <td class=xl66 width=278 style='width:278pt'>陳光輝</td>
+  <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</td>
   <td class=xl66 width=83 style='width:83pt'>待定</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -75,7 +75,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>1330-1500</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>制度設計與理性選擇<font class="font6">/</font><font
-  class="font5">（主持人：待定）</font></td>
+  class="font5">（主持人：謝復生（美國南卡萊羅納大學政治系））</font></td>
   <td class=xl69 width=384 style='width:384pt'>選舉競爭與公民投票</td>
   <td class=xl69 width=278 style='width:278pt'>蔡佳泓<font class="font6">（政治大學選舉研究中心與東亞所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
@@ -101,7 +101,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>1530-1700</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
-  class="font5">（主持人：待定）</font></td>
+  class="font5">（主持人：黃德福榮譽教授）</font></td>
   <td class=xl69 width=384 style='width:384pt'>政黨體系制度化：長期選舉資料的檢視觀點</td>
   <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心與國發所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
@@ -133,7 +133,7 @@
   height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>0910-1040</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
-  class="font5">（主持人：待定）</font></td>
+  class="font5">（主持人：洪永泰榮譽教授）</font></td>
   <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
  <td class=xl69 width=278 style='width:278pt'>蔡宗漢（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
@@ -160,7 +160,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>1100-1230</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
-  class="font5">（主持人：待定）</font></td>
+  class="font5">（主持人：劉義周榮譽教授）</font></td>
   <td class=xl69 width=384 style='width:384pt'>解析「台灣人/中國人」認同的持續與變遷</td>
   <td class=xl69 width=278 style='width:278pt'>鄭夙芬<font class="font6">（政治大學選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>待定</td>
