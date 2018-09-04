@@ -56,13 +56,13 @@
   <td height=16 class=xl67 width=144 style='height:16.0pt;width:144pt'>　</td>
   <td class=xl69 width=384 style='width:384pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例</td>
   <td class=xl69 width=278 style='width:278pt'>謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇（國立臺北大學公共行政暨政策學系）</td>
-  <td class=xl69 width=83 style='width:83pt'></td>
+  <td class=xl69 width=83 style='width:83pt'>盛杏湲（政治大學政治學系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl68 width=144 style='height:17.0pt;width:144pt'></td>
   <td class=xl66 width=384 style='width:384pt'>大學生的民主價值：三個世代的比較</td>
   <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</td>
-  <td class=xl66 width=83 style='width:83pt'></td>
+  <td class=xl66 width=83 style='width:83pt'>盛杏湲（政治大學政治學系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
