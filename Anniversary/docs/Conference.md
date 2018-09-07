@@ -171,7 +171,7 @@
   <td class=xl69 width=83 style='width:83pt'>林聰吉（淡江大學公共行政學系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>　</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣民眾的統獨立場：趨勢與影響</td>
   <td class=xl66 width=278 style='width:278pt'>周應龍（淡江大學全球政治經濟學系）</td>
   <td class=xl66 width=83 style='width:83pt'>林聰吉（淡江大學公共行政學系）</td>
  </tr>
