@@ -66,32 +66,28 @@
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">午餐</font></span></td>
  </tr>
-
- <tr height=16 style='height:16.0pt'>
-   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>13:30-15:00</span></td>
+<tr height=16 style='height:16.0pt'>
+  <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>13:00-15:00</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
-  class="font5">（主持人：陳義彥榮譽教授）</font></td>
-  <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響
-</td>
+  class="font5">[主持人：陳義彥榮譽教授]</font></td>
+  <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響</td>
   <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心暨政治系）、
-楊貴（政治大學政治學系博士生）</td>
-  <td class=xl69 width=83 style='width:83pt'>陳義彥</td>
+楊貴（政治大學政治學系）<font class="font6">（）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>陳義彥榮譽教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
-  <td height=16 class=xl67 width=144 style='height:16.0pt;width:144pt'>　</td>
-  <td class=xl69 width=384 style='width:384pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例</td>
-  <td class=xl69 width=278 style='width:278pt'>謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇（國立臺北大學公共行政暨政策學系）</td>
-  <td class=xl69 width=83 style='width:83pt'></td>
+  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'> </td>
+  <td class=xl69 width=278 style='width:278pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例<font class="font6"></font></td>
+  <td class=xl69 width=83 style='width:83pt'>謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇（國立臺北大學公共行政暨政策學系）（伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl68 width=144 style='height:17.0pt;width:144pt'></td>
-  <td class=xl66 width=384 style='width:384pt'>大學生的民主價值：三個世代的比較</td>
-  <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</td>
-  <td class=xl66 width=83 style='width:83pt'></td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 大學生的民主價值：三個世代的比較</td>
+  <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</font></td>
+  <td class=xl66 width=83 style='width:83pt'> </td>
  </tr>
- 
+  
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>1500-1530<span
