@@ -217,7 +217,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>15:10-16:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">圓桌論壇</font></span></td>
+  </span><font class="font5">圓桌論壇（劉義周、黃紀、牛銘實、蔡佳泓）</font></span></td>
  </tr>
 
 
