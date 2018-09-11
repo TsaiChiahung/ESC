@@ -91,6 +91,12 @@
   <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</td>
   <td class=xl66 width=83 style='width:83pt'>盛杏湲（政治大學政治學系）</td>
  </tr>
+ 
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>1500-1530<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">茶敘</font></span></td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
@@ -112,12 +118,7 @@
   <td class=xl66 width=278 style='width:278pt'>鮑彤<font class="font6">（中研院政治所與政治大學選舉研究中心）</font></td>
   <td class=xl66 width=83 style='width:83pt'>牛銘實（杜克大學政治系）</td>
  </tr>
- <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>1500-1530<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">茶敘</font></span></td>
- </tr>
+ 
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>18:00-20:00<span
@@ -217,7 +218,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>15:10-16:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">圓桌論壇（劉義周、黃紀、牛銘實、蔡佳泓）</font></span></td>
+  </span><font class="font5">圓桌論壇（劉義周名譽教授、黃紀講座教授、牛銘實教授、洪永泰名譽教授）</font></span></td>
  </tr>
 
 
