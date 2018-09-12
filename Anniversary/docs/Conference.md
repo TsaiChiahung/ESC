@@ -112,13 +112,13 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>14:30-15:50<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>14:30-14:50<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">茶敘</font></span></td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>15:50-16:50</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>14:50-15:50</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
   class="font5">[主持人：黃德福榮譽教授]</font></td>
@@ -136,30 +136,10 @@
   <td class=xl66 width=278 style='width:278pt'>黃信豪（師範大學公民教育與活動領導學系）</td>
   <td class=xl66 width=83 style='width:83pt'>陳永福（紐西蘭坎特伯里大學政治與國際關係系）</td>
  </tr>
- <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>10:40-11:00<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">茶敘</font></span></td>
- </tr>
  
-  <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>18:00-20:00<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">晚宴（地點待定）</font></span></td>
- </tr>
- <tr height=16 style='mso-height-source:userset;height:16.0pt'>
-  <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
-  height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
-  class="font6">5</font><font class="font5">月</font><font class="font6">25</font><font
-  class="font5">日（六）</font></td>
- </tr>
-
- 
- <tr height=32 style='height:32.0pt'>
+  <tr height=32 style='height:32.0pt'>
   <td rowspan=3 height=65 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:10-10:10</span></td>
+  height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>16:00-17:00</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
   class="font5">[主持人：洪永泰榮譽教授]</font></td>
@@ -178,11 +158,23 @@
   <td class=xl66 width=278 style='width:278pt'>蕭怡靖（淡江大學公共行政學系）</td>
   <td class=xl66 width=83 style='width:83pt'>黃紀（政治大學政治學系與選舉研究中心）</td>
  </tr>
-  
+  <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>18:00-20:00<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">晚宴（地點待定）</font></span></td>
+ </tr>
+ 
+ <tr height=16 style='mso-height-source:userset;height:16.0pt'>
+  <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
+  height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
+  class="font6">5</font><font class="font5">月</font><font class="font6">25</font><font
+  class="font5">日（六）</font></td>
+ </tr>
 
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:20-11:20</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
   class="font5">[主持人：劉義周榮譽教授]</font></td>
@@ -204,7 +196,7 @@
 
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>11:30-12:30<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>10:30-11:30<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">圓桌論壇（劉義周名譽教授、黃紀講座教授、牛銘實教授、洪永泰名譽教授）</font></span></td>
  </tr>
