@@ -74,12 +74,12 @@
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例 </td>
   <td class=xl69 width=278 style='width:278pt'><font class="font6">謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇（國立臺北大學公共行政暨政策學系）（伊利諾州立大學政治與政府系）</font></td>
-  <td class=xl69 width=83 style='width:83pt'> </td>
+  <td class=xl69 width=83 style='width:83pt'>黃秀端（東吳大學政治系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 大學生的民主價值：三個世代的比較</td>
   <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</font></td>
-  <td class=xl66 width=83 style='width:83pt'> </td>
+  <td class=xl66 width=83 style='width:83pt'>黃秀端（東吳大學政治系） </td>
  </tr>
   
  <tr height=17 style='height:17.0pt'>
@@ -196,7 +196,7 @@
 
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>10:30-11:30<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>10:30-12:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">圓桌論壇（劉義周名譽教授、黃紀講座教授、牛銘實教授、洪永泰名譽教授）</font></span></td>
  </tr>
