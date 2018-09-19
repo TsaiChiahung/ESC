@@ -198,7 +198,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>10:30-12:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">圓桌論壇（謝復生教授、劉義周名譽教授、黃紀講座教授、牛銘實教授、洪永泰名譽教授）</font></span></td>
+  </span><font class="font5">圓桌論壇（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
  </tr>
 
 
