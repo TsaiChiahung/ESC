@@ -23,7 +23,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US><span
   style='mso-spacerun:yes'>&nbsp;</span>09:20-10:10<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">學者專題演講（人選、題目待定）</font></span></td>
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">Robert Shapiro (Columbia University)</font></span></td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
@@ -47,7 +47,7 @@
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
   class="font5">[主持人：劉義周榮譽教授]</font></td>
   <td class=xl69 width=384 style='width:384pt'></td>
-  <td class=xl69 width=278 style='width:278pt'>作者：<font class="font6">（）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>黃紀<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>[主持人：劉義周榮譽教授] </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
@@ -67,7 +67,7 @@
   border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
   class="font5">[主持人：陳義彥榮譽教授]</font></td>
   <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響</td>
-  <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心暨政治系）、
+  <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心暨政治學系）、
 楊貴（政治大學政治學系）<font class="font6"> </font></td>
   <td class=xl69 width=83 style='width:83pt'>陳義彥榮譽教授 </td>
  </tr>
