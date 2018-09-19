@@ -151,12 +151,12 @@
  <tr height=16 style='height:16.0pt'>
   <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
  <td class=xl69 width=278 style='width:278pt'>蔡宗漢（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</td>
-  <td class=xl69 width=83 style='width:83pt'>黃紀（政治大學政治學系與選舉研究中心）</td>
+  <td class=xl69 width=83 style='width:83pt'>劉正山（中山大學政治所）</td>
   </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治極化的測量與影響：一個跨國比較分析</td>
   <td class=xl66 width=278 style='width:278pt'>蕭怡靖（淡江大學公共行政學系）</td>
-  <td class=xl66 width=83 style='width:83pt'>黃紀（政治大學政治學系與選舉研究中心）</td>
+  <td class=xl66 width=83 style='width:83pt'>劉正山（中山大學政治所）</td>
  </tr>
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
@@ -177,10 +177,10 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
-  class="font5">[主持人：劉義周榮譽教授]</font></td>
+  class="font5">[主持人：吳重禮（中央研究院政治所）]</font></td>
   <td class=xl69 width=384 style='width:384pt'>解析「台灣人/中國人」認同的持續與變遷</td>
   <td class=xl69 width=278 style='width:278pt'>鄭夙芬<font class="font6">（政治大學選舉研究中心）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>劉義周榮譽教授</td>
+  <td class=xl69 width=83 style='width:83pt'>吳重禮（中央研究院政治所）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>台灣民眾的政黨認同與政黨政治之變化</td>
