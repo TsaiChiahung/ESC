@@ -57,7 +57,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018台北市長選舉為例</td>
-  <td class=xl66 width=278 style='width:278pt'>王靖興<font class="font6">（休士頓大學）</font>、蔡佳泓<font class="font6">（政治大學選舉研究中心與東亞所）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>王靖興<font class="font6">（休士頓大學）</font>、蔡佳泓<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
   <td class=xl66 width=83 style='width:83pt'> 王德育（伊利諾州立大學政治與政府系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
@@ -97,17 +97,17 @@
   border-top:none;width:213pt'>制度設計與理性選擇<font class="font6">/</font><font
   class="font5">[主持人：謝復生（美國南卡萊羅納大學政治系）]</font></td>
   <td class=xl69 width=384 style='width:384pt'>選舉競爭與公民投票</td>
-  <td class=xl69 width=278 style='width:278pt'>蔡佳泓<font class="font6">（政治大學選舉研究中心與東亞所）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>蔡佳泓<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>謝復生（美國南卡萊羅納大學政治系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>民調初選真有助於挑出「好」的候選人嗎？</td>
-  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心與政治學系）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心暨政治學系）</font></td>
   <td class=xl69 width=83 style='width:83pt'>牛銘實（杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政二代與非政二代候選人的表現</td>
-  <td class=xl66 width=278 style='width:278pt'>鮑彤<font class="font6">（中研院政治所與政治大學選舉研究中心）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>鮑彤<font class="font6">（中研院政治所暨政治大學選舉研究中心）</font></td>
   <td class=xl66 width=83 style='width:83pt'>牛銘實（杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
@@ -124,7 +124,7 @@
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
   class="font5">[主持人：黃德福榮譽教授]</font></td>
   <td class=xl69 width=384 style='width:384pt'>政黨體系制度化：長期選舉資料的檢視觀點</td>
-  <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心與國發所）</font></td>
+  <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>黃德福榮譽教授</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
