@@ -137,9 +137,31 @@
   <td class=xl66 width=83 style='width:83pt'>陳永福（紐西蘭坎特伯里大學政治與國際關係系）</td>
  </tr>
  
-  <tr height=32 style='height:32.0pt'>
+  
+  <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>10:30-12:00<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">圓桌論壇（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
+ </tr>
+
+  <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>18:00-20:00<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">晚宴（地點待定）</font></span></td>
+ </tr>
+ 
+ <tr height=16 style='mso-height-source:userset;height:16.0pt'>
+  <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
+  height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
+  class="font6">5</font><font class="font5">月</font><font class="font6">25</font><font
+  class="font5">日（六）</font></td>
+ </tr>
+ 
+ <tr height=32 style='height:32.0pt'>
   <td rowspan=3 height=65 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>16:00-17:00</span></td>
+  height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
   class="font5">[主持人：洪永泰榮譽教授]</font></td>
@@ -158,29 +180,22 @@
   <td class=xl66 width=278 style='width:278pt'>蕭怡靖（淡江大學公共行政學系）</td>
   <td class=xl66 width=83 style='width:83pt'>劉正山（中山大學政治所）</td>
  </tr>
-  <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>18:00-20:00<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">晚宴（地點待定）</font></span></td>
- </tr>
- 
- <tr height=16 style='mso-height-source:userset;height:16.0pt'>
-  <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
-  height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
-  class="font6">5</font><font class="font5">月</font><font class="font6">25</font><font
-  class="font5">日（六）</font></td>
- </tr>
 
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:40-11:40</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
   class="font5">[主持人：吳重禮（中央研究院政治所）]</font></td>
   <td class=xl69 width=384 style='width:384pt'>解析「台灣人/中國人」認同的持續與變遷</td>
   <td class=xl69 width=278 style='width:278pt'>鄭夙芬<font class="font6">（政治大學選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>吳重禮（中央研究院政治所）</td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>10:20-11:40<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">茶敘</font></span></td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>台灣民眾的政黨認同與政黨政治之變化</td>
@@ -193,15 +208,6 @@
   <td class=xl66 width=83 style='width:83pt'>林聰吉（淡江大學公共行政學系）</td>
  </tr>
   
-
- <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>10:30-12:00<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">圓桌論壇（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
- </tr>
-
-
  <tr height=16 style='height:16.0pt'>
   <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
   height:16.0pt;width:1102pt'>研討會閉幕</td>
