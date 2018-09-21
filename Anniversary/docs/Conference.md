@@ -56,8 +56,8 @@
   <td class=xl69 width=83 style='width:83pt'>王德育（伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> </td>
-  <td class=xl66 width=278 style='width:278pt'>王靖興<font class="font6">（休士頓大學）</font></td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018台北市長選舉為例</td>
+  <td class=xl66 width=278 style='width:278pt'>王靖興<font class="font6">（休士頓大學）</font>、蔡佳泓<font class="font6">（政治大學選舉研究中心與東亞所）</font></td>
   <td class=xl66 width=83 style='width:83pt'> 王德育（伊利諾州立大學政治與政府系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
@@ -143,7 +143,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>15:30-17:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">論壇：選舉研究發展與挑戰（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
+  </span><font class="font1">論壇：選舉研究發展與挑戰（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
  </tr>
 
   <tr height=17 style='height:17.0pt'>
