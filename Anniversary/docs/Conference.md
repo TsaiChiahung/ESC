@@ -84,7 +84,7 @@
   
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>12:30-13:30<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>12:30-13:20<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">午餐</font></span></td>
  </tr>
@@ -92,7 +92,7 @@
  
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>13:30-14:30</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>13:20-14:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>制度設計與理性選擇<font class="font6">/</font><font
   class="font5">[主持人：謝復生（美國南卡萊羅納大學政治系）]</font></td>
@@ -112,14 +112,14 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>14:30-14:50<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>14:20-14:30<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">茶敘</font></span></td>
  </tr>
  
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>14:50-15:50</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>14:30-15:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
   class="font5">[主持人：黃德福榮譽教授]</font></td>
@@ -141,9 +141,9 @@
   
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>16:00-17:00<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>15:30-17:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">圓桌論壇（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
+  </span><font class="font5">論壇：選舉研究發展與挑戰（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
  </tr>
 
   <tr height=17 style='height:17.0pt'>
