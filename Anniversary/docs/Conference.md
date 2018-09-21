@@ -1,4 +1,4 @@
-## 「臺灣民主參與的理論建構與實踐暨慶祝選舉研究中心三十週年」國際學術研討會
+## 「臺灣民主參與的理論建構與實踐暨選舉研究中心三十週年」國際學術研討會
 
 
 <table border=0 cellpadding=0 cellspacing=0 width=1102 style='border-collapse:
@@ -210,12 +210,12 @@
   <td class=xl69 width=83 style='width:83pt'>林聰吉（淡江大學公共行政學系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣民眾的統獨立場：趨勢與影響</td>
-  <td class=xl66 width=278 style='width:278pt'>周應龍（淡江大學全球政治經濟學系）</td>
-  <td class=xl66 width=83 style='width:83pt'>林聰吉（淡江大學公共行政學系）</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 臺灣民眾的統獨立場：趨勢與影響</td>
+  <td class=xl66 width=278 style='width:278pt'>周應龍<font class="font6">（淡江大學全球政治經濟學系）</font></td>
+  <td class=xl66 width=83 style='width:83pt'> 林聰吉（淡江大學公共行政學系）</td>
  </tr>
-  
- <tr height=16 style='height:16.0pt'>
+
+  <tr height=16 style='height:16.0pt'>
   <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
   height:16.0pt;width:1102pt'>研討會閉幕</td>
  </tr>
