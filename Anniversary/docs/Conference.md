@@ -198,12 +198,7 @@
   <td class=xl69 width=278 style='width:278pt'>鄭夙芬<font class="font6">（政治大學選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>吳重禮（中央研究院政治所）</td>
  </tr>
- <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>10:20-11:40<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font5">茶敘</font></span></td>
- </tr>
+ 
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>台灣民眾的政黨認同與政黨政治之變化</td>
   <td class=xl69 width=278 style='width:278pt'>林瓊珠（東吳大學政治系）</td>
