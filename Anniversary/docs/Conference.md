@@ -210,9 +210,10 @@
   <td class=xl66 width=83 style='width:83pt'> 林聰吉（淡江大學公共行政學系）</td>
  </tr>
 
-  <tr height=16 style='height:16.0pt'>
-  <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
-  height:16.0pt;width:1102pt'>研討會閉幕</td>
+  <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>11:40<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">研討會閉幕</font></span></td>
  </tr>
 </table>
 
