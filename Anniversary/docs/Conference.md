@@ -51,7 +51,7 @@
   <td class=xl69 width=83 style='width:83pt'>劉義周榮譽教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
-  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'> </td>
+  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨、議題、候選人因素對選民投票行為的影響：以2016立法委員選舉為例 </td>
   <td class=xl69 width=278 style='width:278pt'>盛杏湲<font class="font6">（政治大學政治學系）</font></td>
   <td class=xl69 width=83 style='width:83pt'>王德育（伊利諾州立大學政治與政府系） </td>
  </tr>
