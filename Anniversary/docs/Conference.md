@@ -46,7 +46,7 @@
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
   class="font5">主持人：劉義周教授</font></td>
-  <td class=xl69 width=384 style='width:384pt'></td>
+  <td class=xl69 width=384 style='width:384pt'>（待定）</td>
   <td class=xl69 width=278 style='width:278pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>劉義周教授 </td>
  </tr>
