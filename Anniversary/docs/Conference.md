@@ -56,7 +56,7 @@
   <td class=xl69 width=83 style='width:83pt'>王德育教授（伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018台北市長選舉為例</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018年台北市長選舉為例</td>
   <td class=xl66 width=278 style='width:278pt'>王靖興教授<font class="font6">（休士頓大學）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
   <td class=xl66 width=83 style='width:83pt'> 王德育教授（伊利諾州立大學政治與政府系）</td>
  </tr>
