@@ -45,41 +45,41 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:20-11:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
-  class="font5">[主持人：劉義周榮譽教授]</font></td>
+  class="font5">[主持人：劉義周教授]</font></td>
   <td class=xl69 width=384 style='width:384pt'></td>
-  <td class=xl69 width=278 style='width:278pt'>黃紀<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>劉義周榮譽教授 </td>
+  <td class=xl69 width=278 style='width:278pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>劉義周教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨、議題、候選人因素對選民投票行為的影響：以2016立法委員選舉為例 </td>
-  <td class=xl69 width=278 style='width:278pt'>盛杏湲<font class="font6">（政治大學政治學系）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>王德育（伊利諾州立大學政治與政府系） </td>
+  <td class=xl69 width=278 style='width:278pt'>盛杏湲教授<font class="font6">（政治大學政治學系）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>王德育教授（伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018台北市長選舉為例</td>
-  <td class=xl66 width=278 style='width:278pt'>王靖興<font class="font6">（休士頓大學）</font>、蔡佳泓<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
-  <td class=xl66 width=83 style='width:83pt'> 王德育（伊利諾州立大學政治與政府系）</td>
+  <td class=xl66 width=278 style='width:278pt'>王靖興教授<font class="font6">（休士頓大學）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
+  <td class=xl66 width=83 style='width:83pt'> 王德育教授（伊利諾州立大學政治與政府系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>11:30-12:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
-  class="font5">[主持人：陳義彥榮譽教授]</font></td>
+  class="font5">[主持人：陳義彥教授]</font></td>
   <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響</td>
-  <td class=xl69 width=278 style='width:278pt'>陳陸輝（政治大學選舉研究中心暨政治學系）、
+  <td class=xl69 width=278 style='width:278pt'>陳陸輝研究員（政治大學選舉研究中心暨政治學系）、
 楊貴（政治大學政治學系）<font class="font6"> </font></td>
-  <td class=xl69 width=83 style='width:83pt'>陳義彥榮譽教授 </td>
+  <td class=xl69 width=83 style='width:83pt'>陳義彥教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例 </td>
-  <td class=xl69 width=278 style='width:278pt'><font class="font6">謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇（國立臺北大學公共行政暨政策學系）（伊利諾州立大學政治與政府系）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>黃秀端（東吳大學政治系） </td>
+  <td class=xl69 width=278 style='width:278pt'><font class="font6">謝忠賢、張繼中、郭倢如、王騰緯、黃善羚、劉嘉薇教授（國立臺北大學公共行政暨政策學系）（伊利諾州立大學政治與政府系）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>黃秀端教授（東吳大學政治系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 大學生的民主價值：三個世代的比較</td>
-  <td class=xl66 width=278 style='width:278pt'>陳光輝(國立中正大學政治學系)</font></td>
-  <td class=xl66 width=83 style='width:83pt'>黃秀端（東吳大學政治系） </td>
+  <td class=xl66 width=278 style='width:278pt'>陳光輝教授(國立中正大學政治學系)</font></td>
+  <td class=xl66 width=83 style='width:83pt'>黃秀端教授（東吳大學政治系） </td>
  </tr>
   
  <tr height=17 style='height:17.0pt'>
@@ -95,20 +95,20 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>13:20-14:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>制度設計與理性選擇<font class="font6">/</font><font
-  class="font5">[主持人：謝復生（美國南卡萊羅納大學政治系）]</font></td>
+  class="font5">[主持人：謝復生教授（美國南卡萊羅納大學政治系）]</font></td>
   <td class=xl69 width=384 style='width:384pt'>選舉競爭與公民投票</td>
-  <td class=xl69 width=278 style='width:278pt'>蔡佳泓<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>謝復生（美國南卡萊羅納大學政治系）</td>
+  <td class=xl69 width=278 style='width:278pt'>蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>謝復生教授（美國南卡萊羅納大學政治系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>民調初選真有助於挑出「好」的候選人嗎？</td>
-  <td class=xl69 width=278 style='width:278pt'>俞振華<font class="font6">（政治大學選舉研究中心暨政治學系）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>牛銘實（杜克大學政治系）</td>
+  <td class=xl69 width=278 style='width:278pt'>俞振華副研究員<font class="font6">（政治大學選舉研究中心暨政治學系）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>牛銘實教授（杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政二代與非政二代候選人的表現</td>
-  <td class=xl66 width=278 style='width:278pt'>鮑彤<font class="font6">（中研院政治所暨政治大學選舉研究中心）</font></td>
-  <td class=xl66 width=83 style='width:83pt'>牛銘實（杜克大學政治系）</td>
+  <td class=xl66 width=278 style='width:278pt'>鮑彤副研究員<font class="font6">（中研院政治所暨政治大學選舉研究中心）</font></td>
+  <td class=xl66 width=83 style='width:83pt'>牛銘實教授（杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
@@ -122,20 +122,20 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>14:30-15:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
-  class="font5">[主持人：黃德福榮譽教授]</font></td>
+  class="font5">[主持人：黃德福教授]</font></td>
   <td class=xl69 width=384 style='width:384pt'>政黨體系制度化：長期選舉資料的檢視觀點</td>
-  <td class=xl69 width=278 style='width:278pt'>游清鑫<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>黃德福榮譽教授</td>
+  <td class=xl69 width=278 style='width:278pt'>游清鑫研究員<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>黃德福教授</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨競爭對原住民政治的影響：菁英觀點</td>
-  <td class=xl69 width=278 style='width:278pt'>包正豪（淡江大學全球政治經濟學系）</td>
-  <td class=xl69 width=83 style='width:83pt'>陳永福（紐西蘭坎特伯里大學政治與國際關係系）</td>
+  <td class=xl69 width=278 style='width:278pt'>包正豪教授（淡江大學全球政治經濟學系）</td>
+  <td class=xl69 width=83 style='width:83pt'>陳永福教授（紐西蘭坎特伯里大學政治與國際關係系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣民主發展與批判性公民的崛起：TEDS資料的檢視</td>
-  <td class=xl66 width=278 style='width:278pt'>黃信豪（師範大學公民教育與活動領導學系）</td>
-  <td class=xl66 width=83 style='width:83pt'>陳永福（紐西蘭坎特伯里大學政治與國際關係系）</td>
+  <td class=xl66 width=278 style='width:278pt'>黃信豪教授（師範大學公民教育與活動領導學系）</td>
+  <td class=xl66 width=83 style='width:83pt'>陳永福教授（紐西蘭坎特伯里大學政治與國際關係系）</td>
  </tr>
  
   
@@ -143,7 +143,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>15:40-17:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span><font class="font1">論壇：選舉研究發展與挑戰（謝復生教授、劉義周榮譽教授、黃紀講座教授、牛銘實教授、洪永泰榮譽教授）</font></span></td>
+  </span><font class="font1">論壇：選舉研究發展與挑戰（謝復生教授、劉義周教授、黃紀講座教授、牛銘實教授、洪永泰教授）</font></span></td>
  </tr>
 
   <tr height=17 style='height:17.0pt'>
@@ -165,21 +165,21 @@
   height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
-  class="font5">[主持人：洪永泰榮譽教授]</font></td>
+  class="font5">[主持人：洪永泰教授]</font></td>
  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>不同抽樣清冊下之調查母體與投票母體的輪廓分析
 —以TEDS 2016年總統選舉調查為例</td>
-  <td class=xl69 width=278 style='width:278pt'>莊文忠（世新大學行政管理學系）</td>
-  <td class=xl69 width=83 style='width:83pt'>洪永泰榮譽教授</td>
+  <td class=xl69 width=278 style='width:278pt'>莊文忠教授（世新大學行政管理學系）</td>
+  <td class=xl69 width=83 style='width:83pt'>洪永泰教授</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
- <td class=xl69 width=278 style='width:278pt'>蔡宗漢（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</td>
-  <td class=xl69 width=83 style='width:83pt'>劉正山（中山大學政治所）</td>
+ <td class=xl69 width=278 style='width:278pt'>蔡宗漢副教授（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</td>
+  <td class=xl69 width=83 style='width:83pt'>劉正山教授（中山大學政治所）</td>
   </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治極化的測量與影響：一個跨國比較分析</td>
-  <td class=xl66 width=278 style='width:278pt'>蕭怡靖（淡江大學公共行政學系）</td>
-  <td class=xl66 width=83 style='width:83pt'>劉正山（中山大學政治所）</td>
+  <td class=xl66 width=278 style='width:278pt'>蕭怡靖副教授（淡江大學公共行政學系）</td>
+  <td class=xl66 width=83 style='width:83pt'>劉正山教授（中山大學政治所）</td>
  </tr>
 <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
@@ -193,21 +193,21 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:40-11:40</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
-  class="font5">[主持人：吳重禮（中央研究院政治所）]</font></td>
+  class="font5">[主持人：吳重禮研究員（中央研究院政治所）]</font></td>
   <td class=xl69 width=384 style='width:384pt'>解析「台灣人/中國人」認同的持續與變遷</td>
-  <td class=xl69 width=278 style='width:278pt'>鄭夙芬<font class="font6">（政治大學選舉研究中心）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>吳重禮（中央研究院政治所）</td>
+  <td class=xl69 width=278 style='width:278pt'>鄭夙芬研究員<font class="font6">（政治大學選舉研究中心）</font></td>
+  <td class=xl69 width=83 style='width:83pt'>吳重禮研究員（中央研究院政治所）</td>
  </tr>
  
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>台灣民眾的政黨認同與政黨政治之變化</td>
-  <td class=xl69 width=278 style='width:278pt'>林瓊珠（東吳大學政治系）</td>
-  <td class=xl69 width=83 style='width:83pt'>林聰吉（淡江大學公共行政學系）</td>
+  <td class=xl69 width=278 style='width:278pt'>林瓊珠副教授（東吳大學政治系）</td>
+  <td class=xl69 width=83 style='width:83pt'>林聰吉教授（淡江大學公共行政學系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 臺灣民眾的統獨立場：趨勢與影響</td>
-  <td class=xl66 width=278 style='width:278pt'>周應龍<font class="font6">（淡江大學全球政治經濟學系）</font></td>
-  <td class=xl66 width=83 style='width:83pt'> 林聰吉（淡江大學公共行政學系）</td>
+  <td class=xl66 width=278 style='width:278pt'>周應龍副教授<font class="font6">（淡江大學全球政治經濟學系）</font></td>
+  <td class=xl66 width=83 style='width:83pt'> 林聰吉教授（淡江大學公共行政學系）</td>
  </tr>
 
   <tr height=17 style='height:17.0pt'>
