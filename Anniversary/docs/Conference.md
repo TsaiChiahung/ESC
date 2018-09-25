@@ -34,42 +34,42 @@
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl65 width=144 style='height:17.0pt;width:144pt'><span
   lang=EN-US>　</span></td>
-  <td class=xl66 width=213 style='width:173pt'>主題<font class="font6">/</font><font
+  <td class=xl66 width=173 style='width:173pt'>主題<font class="font6">/</font><font
   class="font5">（主持人）</font></td>
   <td class=xl66 width=384 style='width:384pt'>論文題目</td>
   <td class=xl66 width=278 style='width:278pt'>發表人</td>
-  <td class=xl66 width=83 style='width:123pt'>評論人</td>
+  <td class=xl66 width=123 style='width:123pt'>評論人</td>
  </tr>
   <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:20-11:20</span></td>
-  <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
+  <td rowspan=3 class=xl73 width=173 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
   class="font5">主持人：劉義周教授</font></td>
   <td class=xl69 width=384 style='width:384pt'>（待定）</td>
   <td class=xl69 width=278 style='width:278pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>劉義周教授 </td>
+  <td class=xl69 width=123 style='width:83pt'>劉義周教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨、議題、候選人因素對選民投票行為的影響：以2016立法委員選舉為例 </td>
   <td class=xl69 width=278 style='width:278pt'>盛杏湲教授<font class="font6">（政治大學政治學系）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>王德育教授（伊利諾州立大學政治與政府系） </td>
+  <td class=xl69 width=123 style='width:83pt'>王德育教授（伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018年台北市長選舉為例</td>
   <td class=xl66 width=278 style='width:278pt'>王靖興教授<font class="font6">（休士頓大學）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
-  <td class=xl66 width=83 style='width:83pt'> 王德育教授（伊利諾州立大學政治與政府系）</td>
+  <td class=xl66 width=123 style='width:83pt'> 王德育教授（伊利諾州立大學政治與政府系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>11:30-12:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
-  border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
+  border-top:none;width:173pt'>社會化研究<font class="font6">/</font><font
   class="font5">主持人：陳義彥教授</font></td>
   <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響</td>
   <td class=xl69 width=278 style='width:278pt'>陳陸輝研究員（政治大學選舉研究中心暨政治學系）、
 楊貴（政治大學政治學系）<font class="font6"> </font></td>
-  <td class=xl69 width=83 style='width:83pt'>陳義彥教授 </td>
+  <td class=xl69 width=123 style='width:83pt'>陳義彥教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>影響大學生參與學生自治組織因素之探討—以國立臺北大學日間部學生會為例 </td>
