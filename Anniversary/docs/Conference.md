@@ -45,7 +45,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:20-11:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
-  class="font5">[主持人：劉義周教授]</font></td>
+  class="font5">主持人：劉義周教授</font></td>
   <td class=xl69 width=384 style='width:384pt'></td>
   <td class=xl69 width=278 style='width:278pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>劉義周教授 </td>
@@ -65,7 +65,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>11:30-12:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>社會化研究<font class="font6">/</font><font
-  class="font5">[主持人：陳義彥教授]</font></td>
+  class="font5">主持人：陳義彥教授</font></td>
   <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響</td>
   <td class=xl69 width=278 style='width:278pt'>陳陸輝研究員（政治大學選舉研究中心暨政治學系）、
 楊貴（政治大學政治學系）<font class="font6"> </font></td>
@@ -95,7 +95,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>13:20-14:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>制度設計與理性選擇<font class="font6">/</font><font
-  class="font5">[主持人：謝復生教授（美國南卡萊羅納大學政治系）]</font></td>
+  class="font5">主持人：謝復生教授（美國南卡萊羅納大學政治系）</font></td>
   <td class=xl69 width=384 style='width:384pt'>選舉競爭與公民投票</td>
   <td class=xl69 width=278 style='width:278pt'>蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>謝復生教授（美國南卡萊羅納大學政治系）</td>
@@ -122,7 +122,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>14:30-15:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
-  class="font5">[主持人：黃德福教授]</font></td>
+  class="font5">主持人：黃德福教授</font></td>
   <td class=xl69 width=384 style='width:384pt'>政黨體系制度化：長期選舉資料的檢視觀點</td>
   <td class=xl69 width=278 style='width:278pt'>游清鑫研究員<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>黃德福教授</td>
@@ -165,7 +165,7 @@
   height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
-  class="font5">[主持人：洪永泰教授]</font></td>
+  class="font5">主持人：洪永泰教授</font></td>
  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>不同抽樣清冊下之調查母體與投票母體的輪廓分析
 —以TEDS 2016年總統選舉調查為例</td>
   <td class=xl69 width=278 style='width:278pt'>莊文忠教授（世新大學行政管理學系）</td>
@@ -193,7 +193,7 @@
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:40-11:40</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
-  class="font5">[主持人：吳重禮研究員（中央研究院政治所）]</font></td>
+  class="font5">主持人：吳重禮研究員（中央研究院政治所）</font></td>
   <td class=xl69 width=384 style='width:384pt'>解析「台灣人/中國人」認同的持續與變遷</td>
   <td class=xl69 width=278 style='width:278pt'>鄭夙芬研究員<font class="font6">（政治大學選舉研究中心）</font></td>
   <td class=xl69 width=83 style='width:83pt'>吳重禮研究員（中央研究院政治所）</td>
@@ -206,7 +206,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 臺灣民眾的統獨立場：趨勢與影響</td>
-  <td class=xl66 width=278 style='width:278pt'>周應龍副教授<font class="font6">（淡江大學全球政治經濟學系）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>周應龍助理教授<font class="font6">（淡江大學全球政治經濟學系）</font></td>
   <td class=xl66 width=83 style='width:83pt'> 林聰吉教授（淡江大學公共行政學系）</td>
  </tr>
 
