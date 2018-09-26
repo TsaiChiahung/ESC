@@ -14,6 +14,11 @@
   class="font6">5</font><font class="font5">月</font><font class="font6">24</font><font
   class="font5">日（五）</font></td>
  </tr>
+  <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>08:50-09:10<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">報到</font></span></td>
+ </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>09:10-09:20<span
