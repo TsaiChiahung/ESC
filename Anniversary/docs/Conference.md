@@ -23,7 +23,7 @@
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US><span
   style='mso-spacerun:yes'>&nbsp;</span>09:20-10:10<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">Robert Shapiro講座教授 (Columbia University)專題演講</font></span></td>
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">Robert Shapiro講座教授 （美國哥倫比亞大學）專題演講</font></span></td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
@@ -53,12 +53,12 @@
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨、議題、候選人因素對選民投票行為的影響：以2016立法委員選舉為例 </td>
   <td class=xl69 width=278 style='width:278pt'>盛杏湲教授<font class="font6">（政治大學政治學系）</font></td>
-  <td class=xl69 width=123 style='width:83pt'>王德育教授（伊利諾州立大學政治與政府系） </td>
+  <td class=xl69 width=123 style='width:83pt'>王德育教授（美國伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政治傳播與投票行為：以2018年台北市長選舉為例</td>
-  <td class=xl66 width=278 style='width:278pt'>王靖興教授<font class="font6">（休士頓大學）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
-  <td class=xl66 width=123 style='width:83pt'> 王德育教授（伊利諾州立大學政治與政府系）</td>
+  <td class=xl66 width=278 style='width:278pt'>王靖興教授<font class="font6">（美國休士頓大學）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
+  <td class=xl66 width=123 style='width:83pt'> 王德育教授（美國伊利諾州立大學政治與政府系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
@@ -103,12 +103,12 @@
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>民調初選真有助於挑出「好」的候選人嗎？</td>
   <td class=xl69 width=278 style='width:278pt'>俞振華副研究員<font class="font6">（政治大學選舉研究中心暨政治學系）</font></td>
-  <td class=xl69 width=83 style='width:83pt'>牛銘實教授（杜克大學政治系）</td>
+  <td class=xl69 width=83 style='width:83pt'>牛銘實教授（美國杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政二代與非政二代候選人的表現</td>
   <td class=xl66 width=278 style='width:278pt'>鮑彤副研究員<font class="font6">（中研院政治所暨政治大學選舉研究中心）</font></td>
-  <td class=xl66 width=83 style='width:83pt'>牛銘實教授（杜克大學政治系）</td>
+  <td class=xl66 width=83 style='width:83pt'>牛銘實教授（美國杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
