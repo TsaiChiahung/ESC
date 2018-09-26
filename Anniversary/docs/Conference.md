@@ -26,14 +26,7 @@
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">Robert Shapiro講座教授 （美國哥倫比亞大學政治系）專題演講</font></span></td>
  </tr>
  
- <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=144 style='height:17.0pt;width:144pt'><span
-  lang=EN-US>09:20-10:10</span></td>
-  <td class=xl66 width=173 style='width:103pt'>專題演講</td>
-  <td class=xl66 width=384 style='width:384pt'></td>
-  <td class=xl66 width=278 style='width:448pt'>Robert Shapiro講座教授（美國哥倫比亞大學政治系）</td>
- <td class=xl66 width=123 style='width:0pt'></td>
- </tr>
+
  
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
