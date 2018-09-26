@@ -27,8 +27,8 @@
  </tr>
  
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl65 width=144 style='height:17.0pt;width:144pt'><span
-  lang=EN-US>　09:20-10:10</span></td>
+  <td colspan=5 height=17 class=xl77 width=144 style='height:17.0pt;width:144pt'><span
+  lang=EN-US>09:20-10:10</span></td>
   <td class=xl66 width=173 style='width:103pt'>專題演講</td>
   <td class=xl66 width=384 style='width:384pt'></td>
   <td class=xl66 width=278 style='width:448pt'>Robert Shapiro講座教授（美國哥倫比亞大學政治系）</td>
