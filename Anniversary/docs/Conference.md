@@ -28,12 +28,10 @@
  
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl65 width=144 style='height:17.0pt;width:144pt'><span
-  lang=EN-US>　</span></td>
-  <td class=xl66 width=173 style='width:173pt'>主題<font class="font6">/</font><font
-  class="font5">（主持人）</font></td>
-  <td class=xl66 width=384 style='width:384pt'>論文題目</td>
-  <td class=xl66 width=278 style='width:278pt'>發表人</td>
-  <td class=xl66 width=123 style='width:123pt'>評論人</td>
+  lang=EN-US>　09:20-10:10</span></td>
+  <td class=xl66 width=173 style='width:173pt'>專題演講</td>
+  <td class=xl66 width=384 style='width:384pt'></td>
+  <td class=xl66 width=278 style='width:378pt'>Robert Shapiro講座教授（美國哥倫比亞大學政治系）</td>
  </tr>
  
  <tr height=17 style='height:17.0pt'>
