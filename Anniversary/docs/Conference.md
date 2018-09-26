@@ -26,8 +26,8 @@
   <td class=xl66 width=173 style='width:173pt'>專題演講<font class="font6"></font><font
   class="font5"></font></td>
   <td class=xl66 width=384 style='width:384pt'></td>
-  <td class=xl66 width=401 style='width:401pt'>Robert Shapiro講座教授 （美國哥倫比亞大學政治系）</td>
-  <td class=xl66 width=0 style='width:0pt'></td>
+  <td class=xl66 width=401 style='width:401pt'>Robert Shapiro講座教授</td>
+  <td class=xl66 width=0 style='width:0pt'>美國哥倫比亞大學政治系</td>
  </tr>
 
  
