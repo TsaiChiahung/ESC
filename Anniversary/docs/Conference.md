@@ -53,8 +53,8 @@
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
   class="font5">主持人：劉義周教授</font></td>
   <td class=xl69 width=384 style='width:384pt'>（待定）</td>
-  <td class=xl69 width=278 style='width:278pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
-  <td class=xl69 width=123 style='width:83pt'>劉義周教授 </td>
+  <td class=xl69 width=258 style='width:258pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
+  <td class=xl69 width=143 style='width:143pt'>劉義周教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨、議題、候選人因素對選民投票行為的影響：以2016立法委員選舉為例 </td>
