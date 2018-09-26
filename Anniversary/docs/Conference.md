@@ -10,9 +10,9 @@
  <col width=163 style='mso-width-source:userset;mso-width-alt:3541;width:163pt'>
  <tr height=16 style='mso-height-source:userset;height:16.0pt'>
   <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
-  height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
+  height:16.0pt;width:1102pt'> <span style="color:red;"><font class="font6">2019</font><font class="font5">年</font><font
   class="font6">5</font><font class="font5">月</font><font class="font6">24</font><font
-  class="font5">日（五）</font></td>
+  class="font5">日（五）</font></span></td>
  </tr>
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
