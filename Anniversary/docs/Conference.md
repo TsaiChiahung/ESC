@@ -7,7 +7,7 @@
  <col width=213 style='mso-width-source:userset;mso-width-alt:9088;width:173pt'>
  <col width=384 style='mso-width-source:userset;mso-width-alt:16384;width:384pt'>
  <col width=258 style='mso-width-source:userset;mso-width-alt:11861;width:258pt'>
- <col width=143 style='mso-width-source:userset;mso-width-alt:3541;width:143pt'>
+ <col width=163 style='mso-width-source:userset;mso-width-alt:3541;width:163pt'>
  <tr height=16 style='mso-height-source:userset;height:16.0pt'>
   <td colspan=5 height=16 class=xl70 width=1102 style='border-right:1.0pt solid black;
   height:16.0pt;width:1102pt'><font class="font6">2019</font><font class="font5">年</font><font
@@ -148,7 +148,7 @@
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US>15:40-17:00<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-spacerun:yes'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font1">論壇：民主參與研究之發展與挑戰（謝復生教授、劉義周教授、黃紀講座教授、牛銘實教授、洪永泰教授）</font></span></td>
  </tr>
 
