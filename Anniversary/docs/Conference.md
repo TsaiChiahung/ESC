@@ -43,8 +43,8 @@
   <td class=xl66 width=173 style='width:173pt'>主題<font class="font6">/</font><font
   class="font5">（主持人）</font></td>
   <td class=xl66 width=384 style='width:384pt'>論文題目</td>
-  <td class=xl66 width=278 style='width:278pt'>發表人</td>
-  <td class=xl66 width=123 style='width:123pt'>評論人</td>
+  <td class=xl66 width=258 style='width:258pt'>發表人</td>
+  <td class=xl66 width=143 style='width:143pt'>評論人</td>
  </tr>
   <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
