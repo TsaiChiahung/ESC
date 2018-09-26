@@ -20,7 +20,7 @@
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">開幕貴賓致詞</font></span></td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  <td colspan=5 height=17 class=xl65 width=1102 style='border-right:1.0pt solid black;
   height:17.0pt;width:1102pt'><span lang=EN-US><span
   style='mso-spacerun:yes'>&nbsp;</span>09:20-10:10<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">Robert Shapiro講座教授 （美國哥倫比亞大學政治系）專題演講</font></span></td>
