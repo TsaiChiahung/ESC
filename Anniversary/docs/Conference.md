@@ -58,7 +58,7 @@
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
   class="font5">主持人：劉義周教授</font></td>
   <td class=xl69 width=384 style='width:384pt'>（待定）</td>
-  <td class=xl69 width=258 style='width:258pt'>黃紀教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
+  <td class=xl69 width=258 style='width:258pt'>黃紀講座教授<font class="font6">（政治大學政治學系暨選舉研究中心）</font></td>
   <td class=xl69 width=143 style='width:143pt'>劉義周教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
