@@ -89,7 +89,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 大學生的民主價值：三個世代的比較</td>
-  <td class=xl66 width=278 style='width:278pt'>陳光輝教授(國立中正大學政治學系)</font></td>
+  <td class=xl66 width=278 style='width:278pt'>陳光輝教授(中正大學政治學系)</font></td>
   <td class=xl66 width=83 style='width:83pt'>黃秀端教授（東吳大學政治系） </td>
  </tr>
   
