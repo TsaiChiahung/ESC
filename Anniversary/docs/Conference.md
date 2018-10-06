@@ -1,4 +1,4 @@
-## 「臺灣民主參與的理論建構與實踐暨選舉研究中心三十週年」國際學術研討會
+## 臺灣民主參與的理論建構與實踐暨選舉研究中心三十週年學術研討會
 
 
 <table border=0 cellpadding=0 cellspacing=0 width=1102 style='border-collapse:
