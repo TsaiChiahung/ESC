@@ -138,11 +138,7 @@
   <td class=xl69 width=278 style='width:278pt'>游清鑫研究員<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
   <td class=xl69 width=83 style='width:83pt'>黃德福教授</td>
  </tr>
- <tr height=16 style='height:16.0pt'>
-  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨競爭對原住民政治的影響：菁英觀點</td>
-  <td class=xl69 width=278 style='width:278pt'>包正豪教授（淡江大學全球政治經濟學系）</td>
-  <td class=xl69 width=83 style='width:83pt'>陳永福教授（紐西蘭坎特伯里大學政治與國際關係系）</td>
- </tr>
+ 
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣民主發展與批判性公民的崛起：TEDS資料的檢視</td>
   <td class=xl66 width=278 style='width:278pt'>黃信豪教授（師範大學公民教育與活動領導學系）</td>
