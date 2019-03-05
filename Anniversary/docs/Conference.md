@@ -149,7 +149,7 @@
   <tr height=17 style='height:17.0pt'>
   <td colspan=6 height=15 class=xl77 width=1112 style='border-right:0.0pt;
   height:15.0pt;width:1112pt'><span lang=EN-US>15:40-17:00<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font1"> 論壇：選舉研究之發展與挑戰（謝復生教授、劉義周教授、黃紀講座教授、牛銘實教授、洪永泰教授）</font></span></td>
  </tr>
 
