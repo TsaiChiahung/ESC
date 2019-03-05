@@ -16,8 +16,13 @@
  </tr>
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>08:50-09:10<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>08:45-09:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">報到</font></span></td>
+ </tr>
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>09:00-09:10<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">選研三十年回顧</font></span></td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
