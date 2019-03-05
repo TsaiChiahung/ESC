@@ -129,7 +129,7 @@
  </tr>
  
  <tr height=16 style='height:16.0pt'>
-  <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
+  <td rowspan=2 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
   height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>14:30-15:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>民主鞏固與政黨競爭<font class="font6">/</font><font
