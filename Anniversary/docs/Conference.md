@@ -73,7 +73,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>公民投票投票選擇：以2018年台北市長選舉為例</td>
-  <td class=xl66 width=278 style='width:278pt'>王靖興教授<font class="font6">（美國休士頓大學）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
+  <td class=xl66 width=278 style='width:278pt'>王靖興助理教授<font class="font6">（成功大學政治學系）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
   <td class=xl66 width=123 style='width:83pt'> 王德育教授（美國伊利諾州立大學政治與政府系）</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
@@ -94,7 +94,7 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'> 大學生的民主價值：三個世代的比較</td>
-  <td class=xl66 width=278 style='width:278pt'>陳光輝教授(中正大學政治學系)</font></td>
+  <td class=xl66 width=278 style='width:278pt'>陳光輝副教授(中正大學政治學系)</font></td>
   <td class=xl66 width=83 style='width:83pt'>黃秀端教授（東吳大學政治系） </td>
  </tr>
   
@@ -185,7 +185,7 @@
  </tr>
  <tr height=16 style='height:16.0pt'>
   <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
- <td class=xl69 width=278 style='width:278pt'>蔡宗漢副教授（政治大學政治學系與選舉研究中心）、蔡奇霖（政治大學政治學系）</td>
+ <td class=xl69 width=278 style='width:278pt'>蔡宗漢副教授（政治大學政治學系與選舉研究中心）、蔡奇霖博士後研究員（政治大學政治學系）</td>
   <td class=xl69 width=83 style='width:83pt'>劉正山教授（中山大學政治所）</td>
   </tr>
  <tr height=17 style='height:17.0pt'>
