@@ -122,7 +122,7 @@
   <td class=xl69 width=83 style='width:83pt'>牛銘實教授（美國杜克大學政治系）</td>
  </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>政二代與非政二代候選人的表現</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>排隊排太久：2018年選舉開票速度與選舉、公投結果的關連性 </td>
   <td class=xl66 width=278 style='width:278pt'>鮑彤副研究員<font class="font6">（中研院政治所暨政治大學選舉研究中心）</font></td>
   <td class=xl66 width=83 style='width:83pt'>牛銘實教授（美國杜克大學政治系）</td>
  </tr>
