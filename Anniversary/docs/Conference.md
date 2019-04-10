@@ -184,7 +184,7 @@
   <td class=xl69 width=83 style='width:83pt'>洪永泰教授</td>
  </tr>
  <tr height=16 style='height:16.0pt'>
-  <td class=xl69 width=384 style='width:384pt'>所得/收入的測量與應用</td>
+  <td class=xl69 width=384 style='width:384pt'>所得變數於民意調查研究中之應用：回顧與前瞻</td>
  <td class=xl69 width=278 style='width:278pt'>蔡宗漢副教授（政治大學政治學系與選舉研究中心）、蔡奇霖博士後研究員（政治大學政治學系）</td>
   <td class=xl69 width=83 style='width:83pt'>劉正山教授（中山大學政治所）</td>
   </tr>
