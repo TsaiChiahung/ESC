@@ -67,8 +67,8 @@
   <td class=xl69 width=143 style='width:143pt'>劉義周教授 </td>
  </tr>
  <tr height=16 style='height:16.0pt'>
-  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>政黨、議題、候選人因素對選民投票行為的影響：以2016立法委員選舉為例 </td>
-  <td class=xl69 width=278 style='width:278pt'>盛杏湲教授<font class="font6">（政治大學政治學系）</font></td>
+  <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>現任者評價、政黨因素與選民的投票行為：以2016年區域立法委員選舉為例</td>
+  <td class=xl69 width=278 style='width:278pt'>盛杏湲教授<font class="font6">（政治大學政治學系）、黃士豪博士後研究員<font class="font6">（政治大學政治學系）</font></td>
   <td class=xl69 width=123 style='width:83pt'>王德育教授（美國伊利諾州立大學政治與政府系） </td>
  </tr>
  <tr height=17 style='height:17.0pt'>
