@@ -145,7 +145,7 @@
  </tr>
  
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣民主發展與批判性公民的崛起：TEDS資料的檢視</td>
+  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>臺灣二次政黨輪替後的批判性公民：2008-2016</td>
   <td class=xl66 width=278 style='width:278pt'>黃信豪教授（師範大學公民教育與活動領導學系）</td>
   <td class=xl66 width=83 style='width:83pt'>陳永福教授（紐西蘭坎特伯里大學政治與國際關係系）</td>
  </tr>
