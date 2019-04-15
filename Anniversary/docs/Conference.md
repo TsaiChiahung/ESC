@@ -189,7 +189,7 @@
   <td class=xl69 width=83 style='width:83pt'>劉正山教授（中山大學政治所）</td>
   </tr>
  <tr height=17 style='height:17.0pt'>
-  <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'政治競選對黨性極化的影響：2018年地方選舉的定群追蹤分析</td>
+  <td class=xl69 width=384 style='width:384pt'>政治競選對黨性極化的影響：2018年地方選舉的定群追蹤分析</td>
   <td class=xl66 width=278 style='width:278pt'>蕭怡靖副教授（淡江大學公共行政學系）</td>
   <td class=xl66 width=83 style='width:83pt'>劉正山教授（中山大學政治所）</td>
  </tr>
