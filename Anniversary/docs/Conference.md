@@ -82,7 +82,7 @@
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:173pt'>社會化研究<font class="font6">/</font><font
   class="font5">主持人：陳義彥教授</font></td>
-  <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷：家庭政治性與親子關係對大學生政治定向社的影響</td>
+  <td class=xl69 width=384 style='width:384pt'>家庭政治傳統的持續與變遷</td>
   <td class=xl69 width=278 style='width:278pt'>陳陸輝研究員（政治大學選舉研究中心暨政治學系）、
 楊貴（政治大學政治學系）<font class="font6"> </font></td>
   <td class=xl69 width=123 style='width:83pt'>陳義彥教授 </td>
