@@ -43,7 +43,7 @@
  
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>10:10-10:20<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>10:10-10:30<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">大合照、茶敘</font></span></td>
  </tr>
@@ -58,7 +58,7 @@
  </tr>
   <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:20-11:20</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:30-11:30</span></td>
   <td rowspan=3 class=xl73 width=173 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>投票行為<font class="font6">/</font><font
   class="font5">主持人：劉義周教授</font></td>
