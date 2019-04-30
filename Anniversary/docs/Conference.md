@@ -171,7 +171,11 @@
   class="font6">5</font><font class="font5">月</font><font class="font6">25</font><font
   class="font5">日（六）</font></td>
  </tr>
- 
+ <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>09:10-09:30<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">報到</font></span></td>
+ </tr>
  <tr height=32 style='height:32.0pt'>
   <td rowspan=3 height=65 class=xl76 width=144 style='border-bottom:1.0pt solid black;
   height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:30-10:30</span></td>
