@@ -174,7 +174,7 @@
  
  <tr height=32 style='height:32.0pt'>
   <td rowspan=3 height=65 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:20-10:20</span></td>
+  height:65.0pt;border-top:none;width:144pt'><span lang=EN-US>09:30-10:30</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>研究方法<font class="font6">/</font><font
   class="font5">主持人：洪永泰教授</font></td>
@@ -195,14 +195,14 @@
  </tr>
 <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>10:20-10:40<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>10:30-11:00<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span><font class="font5">茶敘</font></span></td>
  </tr>
  
  <tr height=16 style='height:16.0pt'>
   <td rowspan=3 height=49 class=xl76 width=144 style='border-bottom:1.0pt solid black;
-  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>10:40-11:40</span></td>
+  height:49.0pt;border-top:none;width:144pt'><span lang=EN-US>11:00-12:00</span></td>
   <td rowspan=3 class=xl73 width=213 style='border-bottom:1.0pt solid black;
   border-top:none;width:213pt'>政治認同<font class="font6">/</font><font
   class="font5">主持人：吳重禮研究員（中央研究院政治所）</font></td>
@@ -224,7 +224,7 @@
 
   <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>11:40<span
+  height:17.0pt;width:1102pt'><span lang=EN-US>12:00-12:10<span
   style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">研討會閉幕</font></span></td>
  </tr>
 </table>
