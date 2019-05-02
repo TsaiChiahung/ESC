@@ -155,7 +155,12 @@
   <td class=xl66 width=278 style='width:278pt'>黃信豪教授（師範大學公民教育與活動領導學系）</td>
   <td class=xl66 width=83 style='width:83pt'>陳永福教授（紐西蘭坎特伯里大學政治與國際關係系）</td>
  </tr>
- 
+  <tr height=17 style='height:17.0pt'>
+  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
+  height:17.0pt;width:1102pt'><span lang=EN-US>15:30-15:40<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span><font class="font5">茶敘</font></span></td>
+ </tr>
   
   <tr height=17 style='height:17.0pt'>
   <td colspan=6 height=15 class=xl77 width=1112 style='border-right:0.0pt;
