@@ -21,18 +21,13 @@
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>09:00-09:10<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">選研三十年回顧</font></span></td>
- </tr>
- <tr height=17 style='height:17.0pt'>
-  <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
-  height:17.0pt;width:1102pt'><span lang=EN-US>09:10-09:20<span
-  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">開幕貴賓致詞</font></span></td>
+  height:17.0pt;width:1102pt'><span lang=EN-US>09:00-09:15<span
+  style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><font class="font5">選研三十年回顧 （蔡佳泓主任）</font></span></td>
  </tr>
 
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl65 width=144 style='height:17.0pt;width:144pt'><span
-  lang=EN-US></span>09:20-10:10</td>
+  lang=EN-US></span>09:15-10:10</td>
   <td class=xl66 width=173 style='width:173pt'>專題演講<font class="font6"></font><font
   class="font5"></font></td>
   <td class=xl66 width=384 style='width:384pt'>The Past and Future of Election Surveys</td>
