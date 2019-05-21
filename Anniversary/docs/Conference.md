@@ -64,12 +64,12 @@
  <tr height=16 style='height:16.0pt'>
   <td height=16 class=xl69 width=384 style='height:16.0pt;width:384pt'>現任者評價、政黨因素與選民的投票行為：以2016年區域立法委員選舉為例</td>
   <td class=xl69 width=278 style='width:278pt'>盛杏湲教授<font class="font6">（政治大學政治學系）、黃士豪博士後研究員<font class="font6">（政治大學政治學系）</font></td>
-  <td class=xl69 width=123 style='width:83pt'>王德育教授（美國伊利諾州立大學政治與政府系） </td>
+  <td class=xl69 width=123 style='width:83pt'>游清鑫研究員<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td height=17 class=xl66 width=384 style='height:17.0pt;width:384pt'>公民投票對於2018年縣市長選舉之影響</td>
   <td class=xl66 width=278 style='width:278pt'>王靖興助理教授<font class="font6">（成功大學政治學系）</font>、蔡佳泓研究員<font class="font6">（政治大學選舉研究中心暨東亞所）</font></td>
-  <td class=xl66 width=123 style='width:83pt'> 王德育教授（美國伊利諾州立大學政治與政府系）</td>
+  <td class=xl66 width=123 style='width:83pt'> 游清鑫研究員<font class="font6">（政治大學選舉研究中心暨國發所）</font></td>
  </tr>
  <tr height=17 style='height:17.0pt'>
   <td colspan=5 height=17 class=xl77 width=1102 style='border-right:1.0pt solid black;
