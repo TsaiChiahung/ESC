@@ -1257,6 +1257,435 @@ Figure 13: Assignment of Candidate Profile Effect
 </div>
 </div>
 </div>
+<div id="comparing-lpm-and-logit-models" class="section level2" number="12">
+<h2><span class="header-section-number">12</span> Comparing LPM and Logit Models</h2>
+<ul>
+<li>根據 Hainmueller et al. (2014) 的理論：</li>
+</ul>
+<ol style="list-style-type: decimal">
+<li>屬性獨立性：因為 Conjoint 的屬性是隨機分派的，屬性之間沒有相關性（相互獨立），這減少了函數形式（線性 vs S型曲線）對估計值的影響。</li>
+<li>機率分佈在中段：Logit 曲線與 LPM 直線最大的差別在於極端值（機率接近 0 或 1 時）。但在 Conjoint 實驗中，受訪者的選擇機率通常落在 <span class="math inline">\(0.2 \sim 0.8\)</span> 之間（中間段），在這個範圍內，Logit 曲線看起來幾乎就是一條直線。</li>
+</ol>
+<ul>
+<li>所以LPM (OLS)：係數 <span class="math inline">\(\hat{\beta}\)</span> 會等於「平均邊際效應」。</li>
+<li>LPM (OLS)：係數 <span class="math inline">\(\hat{\beta}\)</span> 本身就是機率的變化量（例如 <span class="math inline">\(0.05\)</span> 代表 <span class="math inline">\(+5\%\)</span>）。Logit：原始係數是 Log-Odds，計算 「平均邊際效應」(Average Marginal Effects, AME)，是 Logit 模型預測的機率變化。</li>
+</ul>
+<div id="lpm" class="section level3" number="12.1">
+<h3><span class="header-section-number">12.1</span> LPM</h3>
+<table style="text-align:center">
+<tr>
+<td colspan="2" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+<em>Dependent variable:</em>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td colspan="1" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+choice
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+GenderMale
+</td>
+<td>
+-0.013
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.020)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+PartyDPP
+</td>
+<td>
+0.001
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.032)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+PartyTPP
+</td>
+<td>
+0.100<sup>***</sup>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.032)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+PartyNPP
+</td>
+<td>
+0.012
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.032)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+PartyIndependent
+</td>
+<td>
+0.147<sup>***</sup>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.031)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+PolicyMajority
+</td>
+<td>
+-0.098<sup>***</sup>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.020)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+Constant
+</td>
+<td>
+0.503<sup>***</sup>
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+(0.027)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+Observations
+</td>
+<td>
+2,422
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+R<sup>2</sup>
+</td>
+<td>
+0.025
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+Adjusted R<sup>2</sup>
+</td>
+<td>
+0.023
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+Residual Std. Error
+</td>
+<td>
+0.494 (df = 2415)
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+F Statistic
+</td>
+<td>
+10.330<sup>***</sup> (df = 6; 2415)
+</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+<em>Note:</em>
+</td>
+<td style="text-align:right">
+<sup><em></sup>p&lt;0.1; <sup><strong></sup>p&lt;0.05; <sup></strong></em></sup>p&lt;0.01
+</td>
+</tr>
+</table>
+</div>
+<div id="ame-from-logit-model" class="section level3" number="12.2">
+<h3><span class="header-section-number">12.2</span> AME from Logit model</h3>
+<table style="text-align:center">
+<tr>
+<td colspan="6" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+Statistic
+</td>
+<td>
+N
+</td>
+<td>
+Mean
+</td>
+<td>
+St. Dev.
+</td>
+<td>
+Min
+</td>
+<td>
+Max
+</td>
+</tr>
+<tr>
+<td colspan="6" style="border-bottom: 1px solid black">
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+<tr>
+<td style="text-align:left">
+dydx_GenderMale
+</td>
+<td>
+2,422
+</td>
+<td>
+-0.013
+</td>
+<td>
+0.0003
+</td>
+<td>
+-0.013
+</td>
+<td>
+-0.012
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+dydx_PartyDPP
+</td>
+<td>
+2,422
+</td>
+<td>
+0.001
+</td>
+<td>
+0.00002
+</td>
+<td>
+0.001
+</td>
+<td>
+0.001
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+dydx_PartyTPP
+</td>
+<td>
+2,422
+</td>
+<td>
+0.100
+</td>
+<td>
+0.0003
+</td>
+<td>
+0.099
+</td>
+<td>
+0.100
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+dydx_PartyNPP
+</td>
+<td>
+2,422
+</td>
+<td>
+0.012
+</td>
+<td>
+0.0002
+</td>
+<td>
+0.012
+</td>
+<td>
+0.012
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+dydx_PartyIndependent
+</td>
+<td>
+2,422
+</td>
+<td>
+0.147
+</td>
+<td>
+0.001
+</td>
+<td>
+0.145
+</td>
+<td>
+0.148
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+dydx_PolicyMajority
+</td>
+<td>
+2,422
+</td>
+<td>
+-0.098
+</td>
+<td>
+0.001
+</td>
+<td>
+-0.099
+</td>
+<td>
+-0.095
+</td>
+</tr>
+<tr>
+<td style="text-align:left">
+_at_number
+</td>
+<td>
+2,422
+</td>
+<td>
+1.000
+</td>
+<td>
+0.000
+</td>
+<td>
+1
+</td>
+<td>
+1
+</td>
+</tr>
+<tr>
+<td colspan="6" style="border-bottom: 1px solid black">
+</td>
+</tr>
+</table>
+</div>
+</div>
 
 
 
