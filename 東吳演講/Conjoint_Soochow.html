@@ -1272,6 +1272,7 @@ Figure 13: Assignment of Candidate Profile Effect
 </ul>
 <div id="lpm" class="section level3" number="12.1">
 <h3><span class="header-section-number">12.1</span> LPM</h3>
+<pre class="r"><code>model_lpm &lt;- lm(choice ~ Gender + Party + Policy, data = mydata)</code></pre>
 <table style="text-align:center">
 <tr>
 <td colspan="2" style="border-bottom: 1px solid black">
@@ -1508,6 +1509,10 @@ F Statistic
 </div>
 <div id="ame-from-logit-model" class="section level3" number="12.2">
 <h3><span class="header-section-number">12.2</span> AME from Logit model</h3>
+<pre class="r"><code>library(margins)
+model_logit &lt;- glm(choice ~ Gender + Party + Policy, data = mydata, family = binomial(link = &quot;logit&quot;))
+# 計算 Logit 的平均邊際效應 (AME)
+logit_ame &lt;- margins(model_logit)</code></pre>
 <table style="text-align:center">
 <tr>
 <td colspan="6" style="border-bottom: 1px solid black">
